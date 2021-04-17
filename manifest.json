@@ -1,0 +1,17 @@
+{
+    "short_name": "SpaceFarm",
+    "name": "SpaceFarm",
+    "description": "Farm Space with Space LP Tokens",
+    "icons": [
+      {
+        "src": "images/farm-space/logo.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
