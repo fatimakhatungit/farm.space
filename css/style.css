@@ -65,9 +65,9 @@ a:focus,
 a:hover,
 .portfolio-cat a:hover,
 .footer -menu li a:hover {
-	color: #2B96CC;
+	color: #fff;
 	text-decoration: none;
-}
+} 
 a,
 button {
 	color: #1696e7;
